@@ -1,0 +1,3 @@
+Quote from Thejaswi Prakash
+
+> Hack Camp 2020 was the first Hackathon I ever attended outside my hometown. I had so much fun coding and tinkering. It surely helped me broaden my perspectives and experience. This event was an incredible opportunity to interact with remarkable people in the tech industry and listen to them share their knowledge. Last but not the least, Free swags and food was the cherry on top of the entire event. Overall it was a wonderful event in all aspects. Super grateful and happy to have been able to attend this event and I really look forward to participating next year.
