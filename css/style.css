@@ -171,13 +171,13 @@ a{
   background: rgb(255,149,0);
 }
 .text{
-  width: 10%;
+  width: 20%;
   margin-left: 20%;
   text-align: center;
 }
 .image-layout{
   width: 100%;
-  padding: 0px 10px;
+  padding: 10px 10px;
   text-align: center;
   z-index: 100;
   margin-bottom: 50px;
