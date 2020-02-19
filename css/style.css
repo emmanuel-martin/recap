@@ -189,6 +189,7 @@ a{
   border-radius: 20px;
   cursor: pointer;
   transition: all 0.2s linear;
+  object-fit: cover;
 }
 .image-layout img:hover{
   transform: scale(1.1);
