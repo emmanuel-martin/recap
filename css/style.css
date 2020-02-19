@@ -140,21 +140,21 @@ a{
   width: 50px;
   left: 86%;
   animation-delay: 0s;
-  background: white;
+  background: rgb(175,82,222);
 }
 .box-area li:nth-child(2){
   height: 60px;
   width: 60px;
   left: 36%;
   animation-delay: 4s;
-  background: red;
+  background: rgb(255,45,85);
 }
 .box-area li:nth-child(3){
   height: 40px;
   width: 40px;
   left: 16%;
   animation-delay: 1s;
-  background: greenyellow;
+  background: rgb(255,204,0);
 
 }
 .box-area li:nth-child(4){
@@ -162,14 +162,14 @@ a{
   width: 20px;
   left: 75%;
   animation-delay: 3s;
-  background: deepskyblue;
+  background: rgb(0,122,225);
 }
 .box-area li:nth-child(5){
   height: 80px;
   width: 80px;
   left: 53%;
   animation-delay: 2s;
-  background: pink;
+  background: rgb(255,149,0);
 }
 .text{
   width: 10%;
