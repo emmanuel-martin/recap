@@ -18,3 +18,6 @@ Quote from Bezlin Johnson
 Quote from Aiswarya Raju
 
 > It didn't feel like a competition to me because everyone was so supportive to the beginners. I signed up by myself and teamed up with 3 people I'd never met before. All my teammates were at their first hackathon. Really hack camp was a great success, thanks to all the hackcamp coordinators and family members.
+
+Quote from Pavith Sudhir
+> Participating in hack camp was one of the best things that happened to me this year till now. This event exceeded all my expectations. Well, I'm saying this because hack camp gave me a platform to think upon my latest project. I got to meet some interesting people at Hack Camp and was really inspired by them. Altogether it was a wonderful experience and I really enjoyed it.
