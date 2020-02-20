@@ -10,3 +10,7 @@ Quote from Athul Cyriac
 Quote from Ajas Ali
 
 > is the my first HACKTHON,That was really nice.That is a really cool experience also,I don't know about others,The First HACKTHON maybe the best For me.I Think,I can't really sleep with that night.That is the really cool stuff there the ambients for workspace is actually good,Sorry it is very good,also the Red Bull delivery was fantastic. That camp is really mean full form me. Iam an nobie in the tech field so I didn't know anything.so,I learned the android basics,also the nodejs.So it is a WONDERFUL HACKCAMP. TNX FOR HACKCAMP ORGANIZATION.and Thanks for All of my HACKCAMP Famil memebers.
+
+Quote from Bezlin Johnson
+
+> I was able to learn and build things which I  never thought I could. I definitely think events like these enable us to realize one's potential, learn and do things in such a short span of time. It was really wonderful to gain new skills in just two days which otherwise would have taken me two months. Thanks to Hack Club for providing us this opportunity.
