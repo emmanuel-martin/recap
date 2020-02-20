@@ -14,3 +14,7 @@ Quote from Ajas Ali
 Quote from Bezlin Johnson
 
 > I was able to learn and build things which I  never thought I could. I definitely think events like these enable us to realize one's potential, learn and do things in such a short span of time. It was really wonderful to gain new skills in just two days which otherwise would have taken me two months. Thanks to Hack Club for providing us this opportunity.
+
+Quote from Aiswarya Raju
+
+> It didn't feel like a competition to me because everyone was so supportive to the beginners. I signed up by myself and teamed up with 3 people I'd never met before. All my teammates were at their first hackathon. Really hack camp was a great success, thanks to all the hackcamp coordinators and family members.
