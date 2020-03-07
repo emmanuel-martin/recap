@@ -268,3 +268,29 @@ a{
   width: 300px;
 
 }
+.q{
+  height: 30%;
+  width: 100%;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  place-items: center;
+  justify-content: space-between;
+}
+.inside{
+  text-align: center;
+  font-size: 19px;
+  color: white;
+  background: #232323;
+  border-radius: 20px;
+  height: 20%;
+  width: 30%;
+
+  
+}
+.inside img{
+  height: 250px;
+  width: 100%;
+  border-radius: 4px;
+  object-fit: cover;
+}
