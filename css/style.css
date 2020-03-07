@@ -172,7 +172,7 @@ a{
 }
 .text{
   width: 20%;
-  margin-left: 20%;
+  margin-left: 16%;
   text-align: center;
 }
 .image-layout{
@@ -271,10 +271,9 @@ a{
 .q{
   height: 30%;
   width: 100%;
-  width: 80%;
+  width: 66%;
   margin: 0 auto;
   display: flex;
-  place-items: center;
   justify-content: space-between;
 }
 .inside{
