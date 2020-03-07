@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
 html, body {
     margin: 0;
     padding: 0;
@@ -171,9 +173,12 @@ a{
   background: rgb(255,149,0);
 }
 .text{
-  width: 20%;
-  margin-left: 16%;
   text-align: center;
+  font-family: 'Amatic SC', cursive;
+  width: 100%;
+  color: white;
+  font-size: 72px;
+  font-weight: bold;
 }
 .image-layout{
   width: 100%;
@@ -264,40 +269,36 @@ a{
   
 }
 
-.reviews .text{
-  width: 300px;
-
+.container{
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  color: white;
+  margin: 40px;
 }
-.q{
-  height: 30%;
-  width: 100%;
-  width: 66%;
-  margin: 0 auto;
+.container .box{
+  position: relative;
   display: flex;
   justify-content: space-between;
-}
-.inside{
-  text-align: center;
-  color: white;
-  background: #232323;
-  border-radius: 20px;
-  height: 20%;
-  width: 30%;
-
-  
-}
-.inside img{
-  height: 250px;
-  width: 100%;
+  align-items: center;
+  width: 320px;
+  height: 520px;
+  background:#3c3246;
   border-radius: 4px;
+}
+.container .box .content{
+  padding: 30px;
+  text-align: center;
+  font-size: 14px;
+}
+.box .content img{
+  height: 72px;
+  width: 72px;
+  border-radius: 50%;
   object-fit: cover;
 }
-.cont span{
-  font-size: 18px;
-  font-weight: bolder;
-  padding-top: 5px;
-}
-.cont p{
-  font-size: 14px;
-  
+.box .content h3{
+  text-transform: uppercase;
 }
