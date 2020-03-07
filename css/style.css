@@ -278,7 +278,6 @@ a{
 }
 .inside{
   text-align: center;
-  font-size: 19px;
   color: white;
   background: #232323;
   border-radius: 20px;
@@ -292,4 +291,13 @@ a{
   width: 100%;
   border-radius: 4px;
   object-fit: cover;
+}
+.cont span{
+  font-size: 18px;
+  font-weight: bolder;
+  padding-top: 5px;
+}
+.cont p{
+  font-size: 14px;
+  text-align: justify;
 }
